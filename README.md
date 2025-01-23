@@ -54,3 +54,5 @@ Aby uruchomić aplikację, masz kilka opcji:
 2. Za pomocą terminala:
 ```
    mvn spring-boot:run
+```
+Po uruchomieniu aplikacji, będzie ona dostępna pod adresem: http://localhost:8080.
