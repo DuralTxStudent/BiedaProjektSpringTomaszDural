@@ -55,4 +55,4 @@ Aby uruchomić aplikację, masz kilka opcji:
 ```
    mvn spring-boot:run
 ```
-Po uruchomieniu aplikacji, będzie ona dostępna pod adresem: http://localhost:8080.
+Po uruchomieniu aplikacji, będzie ona dostępna pod adresem: [http://localhost:8080](http://localhost:8080/greeting?name=Vistula).
